@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Audio Player</title>
+	<atom:link href="https://www.sprogroup.com/tag/audio-player/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.sprogroup.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 03 Jan 2015 06:18:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>How to make an Audio player in Android?</title>
+		<link>https://www.sprogroup.com/how-to-make-an-audio-player-in-android.html</link>
+					<comments>https://www.sprogroup.com/how-to-make-an-audio-player-in-android.html#respond</comments>
+		
+		<dc:creator><![CDATA[Robert Brault]]></dc:creator>
+		<pubDate>Sat, 03 Jan 2015 06:14:47 +0000</pubDate>
+				<category><![CDATA[Experience]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android L]]></category>
+		<category><![CDATA[Audio Player]]></category>
+		<category><![CDATA[How to]]></category>
+		<category><![CDATA[Media Player]]></category>
+		<category><![CDATA[Playing music]]></category>
+		<guid isPermaLink="false">http://sprogroup.com/?p=160</guid>
+
+					<description><![CDATA[Playing musics, sounds and tones are  very popular functions that are mostly required for a smartphone. By defaults, there is always at least one or more applications for this purpose implemented on the phone you&#8217;ve just bought from a shop. These things look almost completed and satisfy most of needs for using phones with audios. However, sometimes [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a title="Experience" href="http://sprogroup.com/experience">Playing musics</a>, sounds and tones are  very popular functions that are mostly required for a smartphone. By defaults, there is always at least one or more applications for this purpose implemented on the phone you&#8217;ve just bought from a shop. These things look almost completed and satisfy most of needs for using phones with audios. However, sometimes these idiots cannot fit your needs with some special styles or using more personally, not like others do. Maybe they will always load all you music files storing in your phone but you don&#8217;t want they doing like that. Or sometimes you just wanna hear musics on your phone but why those applications always request you to create some kinds of account and sign in for playing?&#8230; In these case, the defaults applications on your phone have doing more things than expected, they make you confused, and falling in troubles. Any more? They are not only doing lots of things than expected but also all things they do are not enough for what you need. Audio files are often recorded with different volume levels, this cause you have to adjust volume of speaker many times while listening a playlist with a number of songs. Why did these rubbishes do many things but nothing for this problem?</p>
+<p>It is the time for you creating an <a title="Contact" href="http://sprogroup.com/contact">Audio Player</a> for yourself! Is it easy to do? &#8211; Yes, it is.</p>
+<p>And today, I&#8217;m going to make a tutorial that will guide you how to program an Audio Player application on <a title="Android developer" href="http://developer.android.com">Android </a>step by step. Follows this, you will understand the main flows and critical things that Android provide to developers for creating the useful and powerful applications doing this stuff.</p>
+<p><span id="more-160"></span></p>
+<p>The first thing for your reference is Android Developer site, which is launched at <a title="Android Developer" href="http://developer.android.com">http://developer.android.com</a>. At this time, when i am writing this tutorial, Android API latest version is currently level 21, Android L. And ofcourse, you can also find out a little information about programming to play audio files on Android at this link: <a title="Media Player on Android" href="http://developer.android.com/reference/android/media/MediaPlayer.html">http://developer.android.com/reference/android/media/MediaPlayer.html</a>.</p>
+<p>The most essential class is <a title="Android MediaPlayer" href="http://developer.android.com/reference/android/media/MediaPlayer.html">android.media.MediaPlayer</a> which enables you to play an audio file on Android. Let take a look on a short Flow Diagram on how to use MediaPlayer to play an audio file below:</p>
+<p>&nbsp;</p>
+
+<a href='https://www.sprogroup.com/how-to-make-an-audio-player-in-android.html/sequencediagramaudioplayer'><img width="150" height="150" src="https://www.sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Sequence Diagram Audio Player - Basic Flow" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer-150x150.jpg 150w, https://www.sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+
+<p>The first thing you need is creating an instance of class MediaPlayer through the default public constructor, then calls prepare() before start() to begin playing an audio data. While the <a title="How to make an Audio player in Android?" href="http://sprogroup.com/how-to-make-an-audio-player-in-android.html">MediaPlayer</a> is playing your song, you can use method seekTo(int) with one argument being the time from beginning of song where you want to jump to. This time is calculated in milliseconds. Once Media Player finishes playing your song, it will stop automatically. But if you want to stop playing at some incomplete points, you can call method stop() to stop playing immediately.</p>
+<div class="woo-sc-quote"><p></p></div>
+<blockquote><p><em>private MediaPlayer mPlayer;</em></p>
+<p>&nbsp;</p>
+<p><em>protected void onCreated(Bundle savedState) {</em></p>
+<p>&nbsp;</p>
+<p><em>mPlayer = new MediaPlayer();</em></p>
+<p><em>mPlayer.setDataResource(&#8220;/sdcard/test.mp3&#8221;);</em></p>
+<p>mPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);</p>
+<p>&nbsp;</p>
+<p><em>mPlayer.prepare();</em></p>
+<p><em>mPlayer.start();</em></p>
+<p><em>}</em></p>
+<p>&nbsp;</p>
+<p><em>protected void onStop() {</em></p>
+<p><em>mPlayer.stop();</em></p>
+<p><em>mPlayer.release();</em></p>
+<p><em>}</em></p></blockquote>
+<div class="woo-sc-quote"><p></p></div>
+<p>How about pausing and resuming while playing? Certainly you can. Looking at following Flow Diagram:</p>
+<div id="attachment_189" style="width: 387px" class="wp-caption alignnone"><a href="http://sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2.jpg"><img aria-describedby="caption-attachment-189" class="wp-image-189 size-full" src="http://sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2.jpg" alt="Sequence Diagram Audio Player - Pause and Resume" width="377" height="496" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2.jpg 377w, https://www.sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2-300x395.jpg 300w, https://www.sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2-228x300.jpg 228w" sizes="(max-width: 377px) 100vw, 377px" /></a><p id="caption-attachment-189" class="wp-caption-text">Sequence Diagram Audio Player &#8211; Pause and Resume</p></div>
+<p>Calling start() when Player is stopping will tell Player start playing your song from the beginning. On another hand, Media Player will resume where you stopped before when you called pause() method, and start playing from that point.</p>
+<p>Every instance of <a title="Spro Group" href="http://sprogroup.com">Media Player</a> can play one song at once. You might want to play more songs at the same time, in that case, you are able to create more instances for more songs and start all of them. But when you want to reuse an instance after finishing one songs to play another song, please do not release it, call reset() instead. After that, you have to reconfigure all information for this instance and prepare() and start() it again. release() method is called only when you finish all things, and you cannot do anything after then.</p>
+<p>To repeat playing one song many times, please use setLooping(boolean) method defined for an instance of Media Player. Otherwise, there is another solution which is very useful and flexible. It is using Listeners. When an error occurs while playing a song, or completes playing a song, system will notify for your application if it registered some listeners before.</p>
+<p>&nbsp;</p>
+<div id="attachment_217" style="width: 740px" class="wp-caption alignnone"><a href="http://sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next.jpg"><img aria-describedby="caption-attachment-217" class="size-full wp-image-217" src="http://sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next.jpg" alt="Audio Player Sequence Diagram - Using Listener" width="730" height="723" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next.jpg 730w, https://www.sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next-150x150.jpg 150w, https://www.sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next-100x100.jpg 100w, https://www.sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next-300x297.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" /></a><p id="caption-attachment-217" class="wp-caption-text">Audio Player Sequence Diagram &#8211; Using Listener</p></div>
+<p>&nbsp;</p>
+<p>When a <a title="How to make an Audio player in Android?" href="http://sprogroup.com/how-to-make-an-audio-player-in-android.html">listener</a> is invoked, you can easily do some useful tasks for current circumstance. Eg: next to another song after completing<a title="How to make an Audio player in Android?" href="http://sprogroup.com/how-to-make-an-audio-player-in-android.html"> playing a song</a>, or reset and try to replay after an error occurring. Then your application will become very reliable and flexible.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.sprogroup.com/how-to-make-an-audio-player-in-android.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

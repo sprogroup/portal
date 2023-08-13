@@ -1,0 +1,132 @@
+/* 
+WOO CUSTOM STYLESHEET
+---------------------
+
+Instructions:
+
+Add your custom styles in this file instead of style.css so it 
+is easier to update the theme. Simply copy an existing style 
+from style.css to this file, and modify it to your liking. */
+
+
+/* 
+GLOBAL STYLES
+----------------
+Add styles beneath this line that you want to be applied across your entire site */
+
+#main.fullwidth, .layout-full #main, .col-full {
+	max-width: none;
+}
+#navigation ul.nav li.home {
+	display: none;
+}
+
+#navigation {
+    border-left: none;
+    border-right: none;
+}
+
+#sidebar .widget, #footer-widgets, .post, .type-page {
+	box-shadow: none;
+	background: none;
+}
+#footer-widgets {
+    border-right: none;
+    border-left: none;
+	padding-left: 0;
+    padding-right: 0;
+}
+.post, .type-page {
+    padding: 1em 0 0 0;
+    text-align: justify;
+    border-right: none;
+    border-left: none;
+}
+.post header h1, .type-page header h1 {
+    font-size: 1.2em;
+	text-shadow: none;
+	/*text-align: left;*/
+	word-break: break-all;
+    word-wrap: break-word;
+    text-align: justify;
+	padding-right: 0;
+}
+.inv-recaptcha-holder .grecaptcha-badge {
+	z-index: 999;	
+}
+
+.post .woo-image:first-child, .type-page .woo-image:first-child {
+	float: left;
+	margin-right: 2em;
+}
+#sidebar .widget .inner {
+    text-align: justify;
+}
+
+ul.products li.product {
+	width: 29%;
+	margin-right: 3.8%;
+}
+ol {
+	padding-left: 1em;
+}
+.archive-header {
+	border-bottom: none;
+	margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+    text-shadow: none;
+}
+body, html {
+    background-image: none;
+    background-color: #fff;
+}
+.post .post-meta, .type-page .post-meta {
+    margin: 0 0 1em 0;
+}
+#header .site-title {
+	text-transform: uppercase;
+}
+#top {
+    position: relative;
+}
+#top .top-logo {
+    height: 20px;
+	vertical-align: middle;
+}
+#top select#mobileMenu_top-nav {
+    width: auto;
+    float: right;
+	margin: .5em 0;
+}
+
+/* 
+DESKTOP STYLES
+-----------------
+Add styles inside the media query below that you only want to be applied to the desktop layout of your site */
+
+@media only screen and (min-width: 768px) {
+	#top ul.nav > li:hover, #top ul.nav > li a:hover {
+		background: none;
+	}
+	
+	#top #top-nav {
+		width: auto;
+	}
+	#top #top-nav .lang-item img {
+		vertical-align: middle;
+	}
+	
+	#main .type-page {
+		border: 0;
+	}
+	
+	#footer .copy-content {
+		width: 95%;
+		margin: 0 auto;
+	}
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized</title>
+	<atom:link href="https://www.sprogroup.com/category/uncategorized/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.sprogroup.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Dec 2014 08:02:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>Spro Group is now on facebook</title>
+		<link>https://www.sprogroup.com/spro-group-is-now-on-facebook.html</link>
+					<comments>https://www.sprogroup.com/spro-group-is-now-on-facebook.html#respond</comments>
+		
+		<dc:creator><![CDATA[Spro Group]]></dc:creator>
+		<pubDate>Sun, 23 Nov 2014 11:07:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[facebook]]></category>
+		<guid isPermaLink="false">http://sprogroup.com/?p=98</guid>
+
+					<description><![CDATA[Spro Group is now on facebook already, more actively, move responsibility. If y0u have any question or idea or information, you now can share with us!]]></description>
+										<content:encoded><![CDATA[<p><a title="Sprogroup" href="http://sprogroup.com/">Spro Group</a> is now on <a title="Spro Group facebook" href="https://www.facebook.com/sprogroup">facebook</a> already, more actively, move responsibility. If y0u have any question or idea or information, you now can <a title="spro group" href="https://www.facebook.com/sprogroup">share</a> with us!<br />
+<a href="https://www.facebook.com/sprogroup"><img class="size-full wp-image-100" src="http://sprogroup.com/wp-content/uploads/2014/11/fanpage-open.png" alt="Spro group fanpage" width="100%" srcset="https://www.sprogroup.com/wp-content/uploads/2014/11/fanpage-open.png 952w, https://www.sprogroup.com/wp-content/uploads/2014/11/fanpage-open-300x183.png 300w" sizes="(max-width: 952px) 100vw, 952px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.sprogroup.com/spro-group-is-now-on-facebook.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

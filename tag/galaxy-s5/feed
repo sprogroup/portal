@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Galaxy S5</title>
+	<atom:link href="https://www.sprogroup.com/tag/galaxy-s5/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.sprogroup.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Feb 2016 13:45:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>How to enable/configure Color Adjustment in Samsung Galaxy S5 (4.4.2)</title>
+		<link>https://www.sprogroup.com/how-to-enableconfigure-color-adjustment-in-samsung-galaxy-s5-4-4-2.html</link>
+					<comments>https://www.sprogroup.com/how-to-enableconfigure-color-adjustment-in-samsung-galaxy-s5-4-4-2.html#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Vu]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2015 14:08:50 +0000</pubDate>
+				<category><![CDATA[Experience]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Color Adjustment]]></category>
+		<category><![CDATA[Galaxy S5]]></category>
+		<guid isPermaLink="false">http://sprogroup.com/?p=229</guid>
+
+					<description><![CDATA[Sometimes, when you want to change the color of an image, you will confuse how to adjust it(especially who have problem with reading the display of colors). There is a feature in Samsung Galaxy S5 named Color adjustment that provides this functions. When enable this feature, you can adjust easily by drag/move the bar. Now [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Sometimes, when you want to change the color of an image, you will confuse how to adjust it(especially who have problem with reading the display of colors). There is a feature in Samsung Galaxy S5 named <strong>Color adjustment</strong> that provides this functions. When enable this feature, you can adjust easily by drag/move the bar. Now we will study how to use it.</p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358.png"><img class="alignnone size-medium wp-image-138" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-168x300.png" alt="Screenshot_2014-12-27-03-48-28" width="168" height="300" />      <img class="alignnone size-medium wp-image-139" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-168x300.png" alt="Screenshot_2014-12-27-03-48-20" width="168" height="300" /></a>  <a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46.png"><img class="alignnone size-medium wp-image-213" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-168x300.png" alt="Screenshot_2015-01-03-04-03-46" width="168" height="300" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-576x1024.png 576w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46.png 1080w" sizes="(max-width: 168px) 100vw, 168px" /></a></p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-13-27.png"><img class="alignnone size-medium wp-image-235" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-13-27-300x168.png" alt="Screenshot_2015-01-06-14-13-27" width="300" height="168" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-13-27-300x169.png 300w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-13-27-1024x576.png 1024w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-13-27.png 1920w" sizes="(max-width: 300px) 100vw, 300px" />   <img class="alignnone size-medium wp-image-231" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-13-41-300x168.png" alt="Screenshot_2015-01-06-14-13-41" width="300" height="168" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-13-41-300x169.png 300w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-13-41-1024x576.png 1024w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-13-41.png 1920w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-26.png"><img class="alignnone size-medium wp-image-233" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-26-300x168.png" alt="Screenshot_2015-01-06-14-14-26" width="300" height="168" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-26-300x169.png 300w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-26-1024x576.png 1024w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-26.png 1920w" sizes="(max-width: 300px) 100vw, 300px" /></a>    <a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-22.png"><img class="alignnone size-medium wp-image-232" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-22-300x168.png" alt="Screenshot_2015-01-06-14-14-22" width="300" height="168" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-22-300x169.png 300w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-22-1024x576.png 1024w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-06-14-14-22.png 1920w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>How to use:</p>
+<ol>
+<li>Swipe down the top of screen to open the <strong>notification panel</strong> and then tap to <strong>setting</strong> icon</li>
+<li>From the setting function, select <strong>Device</strong> Tag and scroll down to <strong>Personalization</strong> section and then tap to <strong>Accessibility</strong>.</li>
+<li>Select <strong>Vision</strong></li>
+<li>Select <strong>Color adjustment</strong> and enable this feature.</li>
+<li>Tap to <strong>Start</strong> button</li>
+<li>Arrange the provided color tiles in order of similarity, starting from the fixed color on the bottom panel. Tap the color that is most similar with the previous one.</li>
+<li>Select <strong>Done</strong> button</li>
+<li>If you can&#8217;t distinguish the colours, tap <strong>Camera</strong>or <strong>Image</strong>.</li>
+<li>Slide the <strong>color adjustment</strong> bar to the left or to the right to fine-tune the color.</li>
+<li>Tap to <strong>Done</strong> button</li>
+<li>The colours have been adjusted and changed into more recognizable colours.</li>
+</ol>
+<p>Above steps are used to enable enable/configure <strong>Color Adjustment</strong> in Samsung Galaxy S5. Hope it is helpful for you.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.sprogroup.com/how-to-enableconfigure-color-adjustment-in-samsung-galaxy-s5-4-4-2.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to set Notification Reminder in Samsung Galaxy S5 (4.4.2)</title>
+		<link>https://www.sprogroup.com/how-to-set-notification-reminder-in-samsung-galaxy-s5-4-4-2.html</link>
+					<comments>https://www.sprogroup.com/how-to-set-notification-reminder-in-samsung-galaxy-s5-4-4-2.html#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Vu]]></dc:creator>
+		<pubDate>Sat, 03 Jan 2015 10:13:56 +0000</pubDate>
+				<category><![CDATA[Experience]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Galaxy S5]]></category>
+		<category><![CDATA[Notification Reminder]]></category>
+		<category><![CDATA[Vision]]></category>
+		<guid isPermaLink="false">http://sprogroup.com/?p=227</guid>
+
+					<description><![CDATA[Notification Reminder is one of the helpful feature in Samsung Galaxy S5 that help you to know the unread notifications. This feature also help you to alert/remind you about the unread notifications until you read/open them. This feature is very helpful for people who are so busy that they forget the message/plan in their phone. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Notification Reminder</strong> is one of the helpful feature in Samsung Galaxy S5 that help you to know the unread notifications. This feature also help you to alert/remind you about the unread notifications until you read/open them. This feature is very helpful for people who are so busy that they forget the message/plan in their phone.</p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-e1419655538641.png"><img class="alignnone size-medium wp-image-138" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-168x300.png" alt="Screenshot_2014-12-27-03-48-28" width="168" height="300" /></a>  <a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358.png"><img class="alignnone size-medium wp-image-139" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-168x300.png" alt="Screenshot_2014-12-27-03-48-20" width="168" height="300" /></a>  <img class="alignnone size-medium wp-image-213" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-168x300.png" alt="Screenshot_2015-01-03-04-03-46" width="168" height="300" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-576x1024.png 576w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46.png 1080w" sizes="(max-width: 168px) 100vw, 168px" />  <a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-31.png"><img class="alignnone size-medium wp-image-225" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-31-168x300.png" alt="Screenshot_2015-01-03-17-01-31" width="168" height="300" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-31-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-31-576x1024.png 576w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-31.png 1080w" sizes="(max-width: 168px) 100vw, 168px" /></a>  <a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-07.png"><img class="alignnone size-medium wp-image-226" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-07-168x300.png" alt="Screenshot_2015-01-03-17-01-07" width="168" height="300" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-07-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-07-576x1024.png 576w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-17-01-07.png 1080w" sizes="(max-width: 168px) 100vw, 168px" /></a></p>
+<p>How to use:</p>
+<ol>
+<li>Swipe down the top of screen to open the <strong>notification panel</strong> and then tap to <strong>setting</strong> icon</li>
+<li>From the <strong>setting</strong> function, select <strong>Device</strong> Tag and scroll down to <strong>Personalization</strong> section and then tap to <strong>Accessibility</strong>.</li>
+<li>Select <strong>Vision</strong></li>
+<li>Select <strong>Notification Reminder</strong> and enable this feature.</li>
+<li>After switching on <strong>Notification Reminder</strong> feature, you can set the interval time between alerts by changing the time in <strong>Reminder interval</strong> function.</li>
+<li>Complete setting</li>
+</ol>
+<p>Above steps are used to enable/set the <strong>Notification reminder</strong> feature in Samsung Galaxy S5. Hope it is helpful for you.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.sprogroup.com/how-to-set-notification-reminder-in-samsung-galaxy-s5-4-4-2.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to enable Mono Audio in Samsung Galaxy S5(4.4.2)</title>
+		<link>https://www.sprogroup.com/how-to-enable-mono-audio-in-samsung-galaxy-s54-4-2.html</link>
+					<comments>https://www.sprogroup.com/how-to-enable-mono-audio-in-samsung-galaxy-s54-4-2.html#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Vu]]></dc:creator>
+		<pubDate>Sat, 03 Jan 2015 08:17:59 +0000</pubDate>
+				<category><![CDATA[Experience]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Galaxy S5]]></category>
+		<category><![CDATA[Hearing]]></category>
+		<category><![CDATA[Mono audio]]></category>
+		<guid isPermaLink="false">http://sprogroup.com/?p=223</guid>
+
+					<description><![CDATA[Mono audio is a feature in Samsung Galaxy S5 that allows us to switch sound output from stereo to mono. This is very useful for us when we use earphones or we have problem with our ear that make you can only hear well with 1 side (left or right ear). Now, let me show [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Mono audio is a feature in Samsung Galaxy S5 that allows us to switch sound output from stereo to mono. This is very useful for us when we use earphones or we have problem with our ear that make you can only hear well with 1 side (left or right ear). Now, let me show you how to enable this feature:</p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-e1419655538641.png"><img class="alignnone size-medium wp-image-138" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-168x300.png" alt="Screenshot_2014-12-27-03-48-28" width="168" height="300" /></a>   <a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358.png"><img class="alignnone size-medium wp-image-139" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-168x300.png" alt="Screenshot_2014-12-27-03-48-20" width="168" height="300" /></a>   <a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-15-05-25.png"><img class="alignnone size-medium wp-image-222" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-15-05-25-168x300.png" alt="Screenshot_2015-01-03-15-05-25" width="168" height="300" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-15-05-25-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-15-05-25-576x1024.png 576w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-15-05-25.png 1080w" sizes="(max-width: 168px) 100vw, 168px" /></a></p>
+<p>How to use:</p>
+<ol>
+<li>Swipe down the top of screen to open the <strong>notification panel</strong> and then tap to <strong>setting</strong> icon</li>
+<li>From the setting function, select <strong>Device</strong> Tag and scroll down to <strong>Personalization</strong> section and then tap to <strong>Accessibility</strong>.</li>
+<li>Tap to <strong>Hearing</strong>.</li>
+<li>Select the check box at <strong>Mono audio</strong> feature to enable this feature.</li>
+<li>From these steps, the <strong>Mono audio</strong> has been enabled.</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.sprogroup.com/how-to-enable-mono-audio-in-samsung-galaxy-s54-4-2.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to modify/change screen color from Negative to normal color in Samsung Galaxy S5 (4.4.2)</title>
+		<link>https://www.sprogroup.com/how-to-modifychange-screen-color-from-negative-to-normal-color-in-samsung-galaxy-s5-4-4-2.html</link>
+					<comments>https://www.sprogroup.com/how-to-modifychange-screen-color-from-negative-to-normal-color-in-samsung-galaxy-s5-4-4-2.html#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Vu]]></dc:creator>
+		<pubDate>Sat, 03 Jan 2015 04:20:57 +0000</pubDate>
+				<category><![CDATA[Experience]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Galaxy S5]]></category>
+		<category><![CDATA[Negative Colors]]></category>
+		<category><![CDATA[Vision]]></category>
+		<guid isPermaLink="false">http://sprogroup.com/?p=211</guid>
+
+					<description><![CDATA[Sometime, because of some setting, your screen color looks like a negative color, it might happen when you turn on the negative colors feature which will inverse the screen display to the negative color. How to fix this issue and get back the normal screen color? It is very easy if you disable this feature [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Sometime, because of some setting, your screen color looks like a negative color, it might happen when you turn on the negative colors feature which will inverse the screen display to the negative color. How to fix this issue and get back the normal screen color? It is very easy if you disable this feature in your phone.</p>
+<p>&nbsp;</p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46.png">    </a><a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46.png"><img class="alignnone wp-image-139" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-168x300.png" alt="Screenshot_2014-12-27-03-48-20" width="200" height="355" /></a>    <a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46.png"><img class="alignnone wp-image-213" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-168x300.png" alt="Screenshot_2015-01-03-04-03-46" width="200" height="356" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-300x533.png 300w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46-576x1024.png 576w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46.png 1080w" sizes="(max-width: 200px) 100vw, 200px" /></a>    <a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-03-46.png"><img class="alignnone wp-image-138" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-168x300.png" alt="Screenshot_2014-12-27-03-48-28" width="200" height="355" /></a>   <a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-07-42.png"><img class="alignnone wp-image-214" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-07-42-168x300.png" alt="Screenshot_2015-01-03-04-07-42" width="200" height="356" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-07-42-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-07-42-300x533.png 300w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-07-42-576x1024.png 576w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-04-07-42.png 1080w" sizes="(max-width: 200px) 100vw, 200px" /></a></p>
+<p>&nbsp;</p>
+<p><strong>How to use:</strong></p>
+<ol>
+<li>Swipe down the top of the screen to open the <strong>Notification Panel</strong></li>
+<li>Tap to <strong>Setting</strong> Icon</li>
+<li>Move to <strong>Device</strong> Tag and select <strong>Accessibility</strong></li>
+<li>Tap to <strong>Vision</strong></li>
+<li>Move to the <strong>Negative Colors</strong> feature and clear the check box.</li>
+<li>Observe: The screen color will be reversed back to the normal.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.sprogroup.com/how-to-modifychange-screen-color-from-negative-to-normal-color-in-samsung-galaxy-s5-4-4-2.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to enable/use air wake up in Samsung Galaxy S5 (4.4.2)</title>
+		<link>https://www.sprogroup.com/how-to-enableuse-air-wake-up-in-samsung-galaxy-s5-4-4-2.html</link>
+					<comments>https://www.sprogroup.com/how-to-enableuse-air-wake-up-in-samsung-galaxy-s5-4-4-2.html#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Vu]]></dc:creator>
+		<pubDate>Sat, 03 Jan 2015 03:03:02 +0000</pubDate>
+				<category><![CDATA[Experience]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Air Wake Up]]></category>
+		<category><![CDATA[Galaxy S5]]></category>
+		<category><![CDATA[Gesture]]></category>
+		<guid isPermaLink="false">http://sprogroup.com/?p=204</guid>
+
+					<description><![CDATA[As we know, Gesture function is one of interesting function in Samsung Galaxy, especially in Galaxy S5 that allows you to use events generated by hand gestures in front of Devices. This is controlled by proximity and gesture sensors located inside Galaxy S5. And, an interesting feature in S5 is the air wake up. When [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>As we know, Gesture function is one of interesting function in Samsung Galaxy, especially in Galaxy S5 that allows you to use events generated by hand gestures in front of Devices. This is controlled by proximity and gesture sensors located inside Galaxy S5. And, an interesting feature in S5 is the air wake up. When you enable this function, you can easily wake up your phone although the screen has turned off without pressing/touching into device.</p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-e1419655538641.png"><img class="alignnone wp-image-138 alignleft" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-168x300.png" alt="Screenshot_2014-12-27-03-48-28" width="200" height="355" /></a>                 <a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358.png"><img class="alignnone wp-image-139" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-168x300.png" alt="Screenshot_2014-12-27-03-48-20" width="200" height="355" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17.png"><img class="alignnone wp-image-146" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17-168x300.png" alt="Screenshot_2014-12-27-07-07-17" width="200" height="356" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17-300x533.png 300w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17-576x1024.png 576w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17.png 1080w" sizes="(max-width: 200px) 100vw, 200px" /></a>                     <a href="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-02-40-59.png"><img class="alignnone wp-image-207" src="http://sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-02-40-59-168x300.png" alt="Screenshot_2015-01-03-02-40-59" width="200" height="356" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-02-40-59-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-02-40-59-300x533.png 300w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-02-40-59-576x1024.png 576w, https://www.sprogroup.com/wp-content/uploads/2015/01/Screenshot_2015-01-03-02-40-59.png 1080w" sizes="(max-width: 200px) 100vw, 200px" /></a></p>
+<p><strong>How to use:</strong><br />
+1. Swipe down the top of the screen to open the <strong>Notification Panel</strong><br />
+2. Tap to <strong>Setting</strong> Icon<br />
+3. Move to <strong>Device</strong> Tag and select <strong>Accessibility</strong><br />
+4. Tap to <strong>Dexterity and Interaction</strong><br />
+5. Select <strong>Air wake up</strong><br />
+6. Turn <strong>ON/OFF</strong> switch to enable/disable the <strong>air wake up</strong> feature.<br />
+<strong>How to use the air wake up feature:</strong><br />
+Firstly, you have to be enable the air wake up feature. The following steps are keys to use this feature:<br />
+1. Put the phone on a flat/stable surface when the screen has turned off.<br />
+2. Move your hand over the device (gesture device is located at the top of device), make sure to make a smooth movement(the best distance to recognize movement is about 2 inches above the sensor)<br />
+3. Observe: the screen is turn on.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.sprogroup.com/how-to-enableuse-air-wake-up-in-samsung-galaxy-s5-4-4-2.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to enable/use Interaction Control in Samsung Galaxy S5 (4.4.2)</title>
+		<link>https://www.sprogroup.com/how-to-enable-use-interaction-control-in-samsung-galaxy-s5-4-4-2.html</link>
+					<comments>https://www.sprogroup.com/how-to-enable-use-interaction-control-in-samsung-galaxy-s5-4-4-2.html#respond</comments>
+		
+		<dc:creator><![CDATA[Spro Group]]></dc:creator>
+		<pubDate>Sat, 27 Dec 2014 08:43:34 +0000</pubDate>
+				<category><![CDATA[Experience]]></category>
+		<category><![CDATA[Galaxy S5]]></category>
+		<category><![CDATA[Interaction Control]]></category>
+		<guid isPermaLink="false">http://sprogroup.com/?p=147</guid>
+
+					<description><![CDATA[Interaction Control is a feature in Samsung Galaxy S5 that allows you to block/restrict certain or whole area of the screen while using an app. It means that touch interaction can only work in the unblocked area. While this feature is being used in an app, some functions are disabled such as auto rotate feature, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a title="How to enable/use Interaction Control in Samsung Galaxy S5 (4.4.2)" href="http://sprogroup.com/how-to-enable-use-interaction-control-in-samsung-galaxy-s5-4-4-2.html">Interaction Control</a> is a feature in <a title="Galaxy S5" href="https://www.tinhte.vn/resources/samsung-galaxy-s5.13659/">Samsung Galaxy S5</a> that allows you to block/restrict certain or whole area of the screen while using an app.<br />
+It means that touch interaction can only work in the <a title="How to enable/use Interaction Control in Samsung Galaxy S5 (4.4.2)" href="http://sprogroup.com/how-to-enable-use-interaction-control-in-samsung-galaxy-s5-4-4-2.html">unblocked area</a>. While this feature is being used in an app, some functions are disabled such as auto rotate feature, the notification panel&#8230;<br />
+It is very useful for you if you want to limited access and control you data from other users who want to use your phone.</p>
+<p>&nbsp;</p>
+<p><a title="Spro group" href="http://sprogroup.com/"><img class="alignnone wp-image-138" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-168x300.png" alt="Screenshot_2014-12-27-03-48-28" width="256" height="455" /></a>  <a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358.png"><img class="alignnone wp-image-139" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358.png" alt="Screenshot_2014-12-27-03-48-20" width="256" height="455" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358.png 512w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358-300x533.png 300w" sizes="(max-width: 256px) 100vw, 256px" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17.png"><img class="alignnone wp-image-146" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17.png" alt="Screenshot_2014-12-27-07-07-17" width="256" height="455" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17.png 1080w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17-300x533.png 300w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-17-576x1024.png 576w" sizes="(max-width: 256px) 100vw, 256px" />  <img class="alignnone wp-image-145" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-25.png" alt="Screenshot_2014-12-27-07-07-25" width="256" height="455" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-25.png 1080w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-25-300x533.png 300w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-25-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-07-07-25-576x1024.png 576w" sizes="(max-width: 256px) 100vw, 256px" /></a><br />
+How to use:<br />
+1. Swipe down the top of the screen to open the <strong>Notification Panel</strong><br />
+2. Tap to <strong>Setting</strong> Icon<br />
+3. Move to<strong> Device</strong> Tag and select <strong>Accessibility</strong><br />
+4. Tap to <strong>Dexterity and Interaction</strong><br />
+5. Select <strong>Interaction Control</strong><br />
+6. Turn<strong> ON/OFF</strong> switch to <strong>enable/disable</strong> the interaction control feature.</p>
+<p>How to use the interaction control feature:<br />
+Now, let assume that the<strong> interaction control</strong> feature is enable in your Galaxy S5. You will confuse how to use this function. I will show you how to use it.<br />
+Example <strong>you are viewing a photos of an album in Galary App</strong>. Please go to following steps:<br />
+1. Press the <strong>Home key</strong> and the <strong>Volume down key</strong> simultaneously. This will be available if you are enable the interaction control feature.<br />
+2. You will see the outline of the area showing in the screen. Draw in the area you want to restrict or select <strong>Block whole screen</strong> option. This will block whole screen.<br />
+3. Tap <strong>Done</strong> Button.<br />
+4. To exit from this mode, there are 2 ways:<br />
+&#8211; Press the <strong>Home key</strong> &amp; <strong>Volume down key</strong> simultaneously<br />
+&#8211; Press the <strong>Home key</strong> three times quickly.</p>
+<p><a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-30.png"><img class="alignnone wp-image-151" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-30.png" alt="Screenshot_2014-12-27-08-50-30" width="256" height="455" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-30.png 1080w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-30-300x533.png 300w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-30-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-30-576x1024.png 576w" sizes="(max-width: 256px) 100vw, 256px" /></a>  <a href="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-09-02-28.png"><img class="alignnone wp-image-149" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-09-02-28.png" alt="Screenshot_2014-12-27-09-02-28" width="256" height="455" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-09-02-28.png 1080w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-09-02-28-300x533.png 300w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-09-02-28-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-09-02-28-576x1024.png 576w" sizes="(max-width: 256px) 100vw, 256px" />  <img class="alignnone wp-image-150" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-50.png" alt="Screenshot_2014-12-27-08-50-50" width="256" height="455" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-50.png 1080w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-50-300x533.png 300w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-50-168x300.png 168w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-08-50-50-576x1024.png 576w" sizes="(max-width: 256px) 100vw, 256px" /></a></p>
+<p>Finally, the Interaction Control is ON/OFF depended on your selection. It is very useful for managing and controlling your data.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.sprogroup.com/how-to-enable-use-interaction-control-in-samsung-galaxy-s5-4-4-2.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to setup Press &#038; Hold Delay for Samsung Galaxy S5 (4.4.2)</title>
+		<link>https://www.sprogroup.com/how-to-setup-press-hold-delay-for-samsung-galaxy-s5-4-4-2.html</link>
+					<comments>https://www.sprogroup.com/how-to-setup-press-hold-delay-for-samsung-galaxy-s5-4-4-2.html#respond</comments>
+		
+		<dc:creator><![CDATA[Spro Group]]></dc:creator>
+		<pubDate>Wed, 24 Dec 2014 08:38:38 +0000</pubDate>
+				<category><![CDATA[Experience]]></category>
+		<category><![CDATA[Accessibility]]></category>
+		<category><![CDATA[Galaxy S5]]></category>
+		<guid isPermaLink="false">http://sprogroup.com/?p=131</guid>
+
+					<description><![CDATA[For user who uses Samsung Galaxy S5, it sometimes requires that you want to Press and hold the screen to open up contextual menus or other tasks. &#160;    &#160; Galaxy S5 sets the duration of long press to a short delay or 0.5 seconds in default. This will brings you some difficulty for doing [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>For user who uses <a title="Mua dien thoai Galaxy S5 gia re" href="http://fptshop.com.vn/dien-thoai/samsung-galaxy-s5">Samsung Galaxy S5</a>, it sometimes requires that you want to Press and hold the screen to open up contextual menus or other tasks.</p>
+<p>&nbsp;</p>
+<p><a title="How to setup Press &amp; Hold Delay for Samsung Galaxy S5 (4.4.2)" href="http://sprogroup.com/how-to-setup-press-hold-delay-for-samsung-galaxy-s5-4-4-2.html"><img class="alignnone wp-image-138" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-e1419655538641.png" alt="Screenshot_2014-12-27-03-48-28" width="256" height="455" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-e1419655538641.png 512w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-28-e1419655538641-300x533.png 300w" sizes="(max-width: 256px) 100vw, 256px" />  <img class="alignnone wp-image-139" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358.png" alt="Screenshot_2014-12-27-03-48-20" width="256" height="455" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358.png 512w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-20-e1419655689358-300x533.png 300w" sizes="(max-width: 256px) 100vw, 256px" /></a></p>
+<p>&nbsp;</p>
+<p><a title="How to setup Press &amp; Hold Delay for Samsung Galaxy S5 (4.4.2)" href="http://sprogroup.com/how-to-setup-press-hold-delay-for-samsung-galaxy-s5-4-4-2.html"><img class="alignnone wp-image-137" src="http://sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-12-e1419655431824.png" alt="Screenshot_2014-12-27-03-48-12" width="256" height="455" srcset="https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-12-e1419655431824.png 512w, https://www.sprogroup.com/wp-content/uploads/2014/12/Screenshot_2014-12-27-03-48-12-e1419655431824-300x533.png 300w" sizes="(max-width: 256px) 100vw, 256px" /></a></p>
+<p><a title="How to enable/use Interaction Control in Samsung Galaxy S5 (4.4.2)" href="https://www.tinhte.vn/resources/samsung-galaxy-s5.13659/">Galaxy S5 </a>sets the duration of long press to a short delay or 0.5 seconds in default. This will brings you some difficulty for doing some functions.</p>
+<p>But if you observe more inside Galaxy <a title="Galaxy S5" href="http://sprogroup.com">S5</a>, you can see that it has an accessibility feature named<strong> Press and Hold Delay</strong> which will help you set the recognition time for long press as well as delay. By this <a title="Contact" href="http://sprogroup.com/contact">setting</a>, you can control/set time the device should delay before opening any functions/actions.</p>
+<p>How to use:</p>
+<ol>
+<li>Swipe down the top of screen to open the notification panel and then tap to <strong>setting</strong> icon</li>
+<li>From the setting function, select <strong>Device Tag</strong> and scroll down to <strong>Personalization</strong> section and then tap to <strong>Accessibility</strong>.</li>
+<li>Tap to <strong>Dexterity and interaction</strong></li>
+<li>Tap to <strong>Press and Hold Delay</strong> and select duration time you want to setup.</li>
+</ol>
+<p>From these steps, the <strong>Press and Hold Delay</strong> has been set.</p>
+<p>Finally, the setting is not so difficult if you take a look above steps. Hope you enjoin it!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.sprogroup.com/how-to-setup-press-hold-delay-for-samsung-galaxy-s5-4-4-2.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
