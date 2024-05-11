@@ -174,7 +174,7 @@
 <p>How about pausing and resuming while playing? Certainly you can. Looking at following Flow Diagram:</p>
 <div id="attachment_189" style="width: 387px" class="wp-caption alignnone"><a href="http://sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2.jpg"><img aria-describedby="caption-attachment-189" class="wp-image-189 size-full" src="http://sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2.jpg" alt="Sequence Diagram Audio Player - Pause and Resume" width="377" height="496" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2.jpg 377w, https://www.sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2-300x395.jpg 300w, https://www.sprogroup.com/wp-content/uploads/2015/01/SequenceDiagramAudioPlayer2-228x300.jpg 228w" sizes="(max-width: 377px) 100vw, 377px" /></a><p id="caption-attachment-189" class="wp-caption-text">Sequence Diagram Audio Player &#8211; Pause and Resume</p></div>
 <p>Calling start() when Player is stopping will tell Player start playing your song from the beginning. On another hand, Media Player will resume where you stopped before when you called pause() method, and start playing from that point.</p>
-<p>Every instance of <a title="Spro Group" href="http://sprogroup.com">Media Player</a> can play one song at once. You might want to play more songs at the same time, in that case, you are able to create more instances for more songs and start all of them. But when you want to reuse an instance after finishing one songs to play another song, please do not release it, call reset() instead. After that, you have to reconfigure all information for this instance and prepare() and start() it again. release() method is called only when you finish all things, and you cannot do anything after then.</p>
+<p>Every instance of <a title="SPROGROUP CO.,LTD" href="http://sprogroup.com">Media Player</a> can play one song at once. You might want to play more songs at the same time, in that case, you are able to create more instances for more songs and start all of them. But when you want to reuse an instance after finishing one songs to play another song, please do not release it, call reset() instead. After that, you have to reconfigure all information for this instance and prepare() and start() it again. release() method is called only when you finish all things, and you cannot do anything after then.</p>
 <p>To repeat playing one song many times, please use setLooping(boolean) method defined for an instance of Media Player. Otherwise, there is another solution which is very useful and flexible. It is using Listeners. When an error occurs while playing a song, or completes playing a song, system will notify for your application if it registered some listeners before.</p>
 <p>&nbsp;</p>
 <div id="attachment_217" style="width: 740px" class="wp-caption alignnone"><a href="http://sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next.jpg"><img aria-describedby="caption-attachment-217" class="size-full wp-image-217" src="http://sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next.jpg" alt="Audio Player Sequence Diagram - Using Listener" width="730" height="723" srcset="https://www.sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next.jpg 730w, https://www.sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next-150x150.jpg 150w, https://www.sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next-100x100.jpg 100w, https://www.sprogroup.com/wp-content/uploads/2015/01/Audio-Player-Next-300x297.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" /></a><p id="caption-attachment-217" class="wp-caption-text">Audio Player Sequence Diagram &#8211; Using Listener</p></div>
@@ -267,7 +267,7 @@ Firstly, you have to be enable the air wake up feature. The following steps are 
 		<link>https://www.sprogroup.com/how-to-enable-use-interaction-control-in-samsung-galaxy-s5-4-4-2.html</link>
 					<comments>https://www.sprogroup.com/how-to-enable-use-interaction-control-in-samsung-galaxy-s5-4-4-2.html#respond</comments>
 		
-		<dc:creator><![CDATA[Spro Group]]></dc:creator>
+		<dc:creator><![CDATA[SPROGROUP CO.,LTD]]></dc:creator>
 		<pubDate>Sat, 27 Dec 2014 08:43:34 +0000</pubDate>
 				<category><![CDATA[Experience]]></category>
 		<category><![CDATA[Galaxy S5]]></category>
@@ -312,7 +312,7 @@ Example <strong>you are viewing a photos of an album in Galary App</strong>. Ple
 		<link>https://www.sprogroup.com/how-to-setup-press-hold-delay-for-samsung-galaxy-s5-4-4-2.html</link>
 					<comments>https://www.sprogroup.com/how-to-setup-press-hold-delay-for-samsung-galaxy-s5-4-4-2.html#respond</comments>
 		
-		<dc:creator><![CDATA[Spro Group]]></dc:creator>
+		<dc:creator><![CDATA[SPROGROUP CO.,LTD]]></dc:creator>
 		<pubDate>Wed, 24 Dec 2014 08:38:38 +0000</pubDate>
 				<category><![CDATA[Experience]]></category>
 		<category><![CDATA[Accessibility]]></category>
